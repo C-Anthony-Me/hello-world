@@ -1,2 +1,2 @@
 # hello-world
-ME start
+I'm A Chinese guy,looking something interesting.
